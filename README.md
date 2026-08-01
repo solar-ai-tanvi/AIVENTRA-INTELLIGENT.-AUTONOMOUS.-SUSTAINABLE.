@@ -190,7 +190,7 @@ Founder & Developer
 
 **Organization**
 
-SuryaAITech
+AIVENTRA-INTELLIGENT.AUTONOMOUS.SUSTAINABLE.
 
 ---
 
