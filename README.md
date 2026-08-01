@@ -209,8 +209,9 @@ Current Progress:
 - ✅ Research Completed
 - ✅ System Design Completed
 - ✅ Hardware Planning Completed
-- 🔄 Software Architecture Designed
-- ⏳ Prototype Development In Progress
+- ✅ Software Architecture Designed
+- 🔄 Mechanical CAD Design in Progress
+- ⏳ Prototype Development 
 - ⏳ AI Model Development
 - ⏳ Testing & Validation
 - ⏳ Deployment
