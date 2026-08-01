@@ -17,9 +17,9 @@
 </p>
 
 
-# 🤖 AI & IoT Enabled Autonomous Solar Panel Cleaning and Intelligent Maintenance Robot
+# 🤖 AI & IoT Powered Autonomous Solar Panel Cleaning Robot with Intelligent Vision-Based Inspection.
 
-### 🚀 Developed by SuryaAITech
+### 🚀 Developed by AIVENTRA-INTELLIGENT.AUTONOMOUS.SUSTAINABLE.
 
 An AI-powered autonomous robotic system designed for utility-scale solar power plants that performs vision-based inspection, intelligent decision-making, need-based cleaning, and real-time IoT monitoring.
 
